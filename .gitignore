@@ -1,0 +1,4 @@
+bin/
+*.class
+inventario.db
+.settings/
